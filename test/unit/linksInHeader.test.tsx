@@ -68,6 +68,6 @@ describe('Ссылки в шапке:', () => {
 
 
         // expect(container.textContent).toBe('example');
-        screen.logTestingPlaygroundURL();
+        // screen.logTestingPlaygroundURL();
     });
 });
